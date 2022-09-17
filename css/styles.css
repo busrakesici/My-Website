@@ -1,0 +1,182 @@
+/*
+*{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+*/
+a {
+  color: #d94c04;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+a:hover {
+  color: #bb3f00;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 100%;
+  color: #576F72;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 3.625rem;
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+}
+
+h2{
+  margin: 0;
+  font-size: 1rem;
+}
+
+hr {
+  border: dotted #edeee5 6px;
+  border-bottom: none;
+  width: 3%;
+}
+
+img {
+  width: 75%;
+  height: 400px;
+  position: relative;
+  left: 0px;
+}
+
+p{
+    line-height: 1.5;
+}
+
+.btn {
+  background: #e3a785;
+  background-image: -webkit-linear-gradient(top, #e3a785, #e77745);
+  background-image: -moz-linear-gradient(top, #e3a785, #e77745);
+  background-image: -ms-linear-gradient(top, #e3a785, #e77745);
+  background-image: -o-linear-gradient(top, #e3a785, #e77745);
+  background-image: linear-gradient(to bottom, #e3a785, #e77745);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: "Roboto";
+  color: #edeee6;
+  font-size: 14px;
+  padding: 8px 50px 8px 50px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e77745;
+  background-image: -webkit-linear-gradient(top, #e77745, #d94c04);
+  background-image: -moz-linear-gradient(top, #e77745, #d94c04);
+  background-image: -ms-linear-gradient(top, #e77745, #d94c04);
+  background-image: -o-linear-gradient(top, #e77745, #d94c04);
+  background-image: linear-gradient(to bottom, #e77745, #d94c04);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #ddb299;
+  color:  #edeee6;
+  height: 50px;
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.cloud1 {
+  position: absolute;
+  width: auto;
+  height: 50px;
+  right: 500px;
+  margin-left: 1200px;
+  margin-bottom: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  width: auto;
+  height: 75px;
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.contact-h2 {
+font-size: 1.75rem;
+color: #ddb299;
+margin-top: 100px;
+}
+
+.contact-p {
+  margin: 75px auto;
+}
+
+.hi {
+  width: auto;
+  height: 50px;
+  color: #edeee6;
+}
+
+.iam{
+  width: auto;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.skills {
+  padding-bottom: 100px;
+}
+
+.skill-interior {
+  width: auto;
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-web {
+  width: auto;
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 150px auto;
+  margin-top: auto;
+  text-align: left;
+}
+
+.skills-h2 {
+  font-size: 1.75rem;
+  color: #ddb299;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.profile-p {
+  margin-bottom: 100px;
+}
+
+.pp {
+  width: auto;
+  height: 120px;
+  margin-top: 100px;
+}
+
+.top-container {
+  background-color: #FAFAFA;
+  position: relative;
+  padding-top: 100px;
+}
+
+.wp {
+  width: auto;
+  height: 600px;
+}
